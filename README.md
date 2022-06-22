@@ -10,6 +10,6 @@
 
 > TMSS Engineering College
 
-CSE==
+==Department of CSE==
 
 
