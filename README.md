@@ -20,9 +20,9 @@
 
 - I am a citizen of Bangladesh :heart:
 
-[^1201] 
+[^1201]: 
 
-~~I being a human,am a kind,loving and caring human being.~~
+~~My Birthday is on 14th October.~~
 
 
 
