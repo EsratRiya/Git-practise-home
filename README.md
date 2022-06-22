@@ -26,16 +26,4 @@
 
 [google](https://www.goggle.com)
 
-![cartoon pic](cartoon pic.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
+![cartoon pic](cartoon pic 1.jpg)
