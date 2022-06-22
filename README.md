@@ -16,15 +16,13 @@
 
 * Session : 2019-2020
 
- | I :heart: My Country |
-
- | ---------------------- |
+ `I :heart: My Country`
 
 - I am a citizen of Bangladesh :heart:
 
 ~~My Birthday is on 14th October.~~
 
-`coding`
+`i wanna learn coding`
 
 
 
